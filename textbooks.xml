@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+   <book id="bk101">
+      <author>Deitel</author>
+      <title>Internet and World Wide Web "How to Program"</title>
+      <edition>Third Edition</edition>
+      <genre>Computer Programming</genre>
+      <price>59.00</price>
+      <type>Paperback</type>
+      <ISBN>9780131450912</ISBN>
+      <publish_date>2004-11-24</publish_date>
+      <description> This book is to introduce readers with little or no programming experience to the exciting world of Web-based applications. </description>
+   </book>
+   <book id="bk102">
+      <author>Massimo Banzi OReilly</author>
+      <title>Getting Started with Arduino</title>
+      <edition>Third Edition</edition>
+      <genre>Computer Programming</genre>
+      <price>13.06</price>
+      
+      <ISBN>9780596155513</ISBN>
+      <publish_date>2009-03-24</publish_date>
+      <description> This valuable little book offers you lots of ideas for Arduino projects and helps you get going on them right away. </description>
+   </book>
+</catalog> 
